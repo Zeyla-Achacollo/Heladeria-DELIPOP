@@ -1,0 +1,8 @@
+{
+  "name": "PruebaNode",
+  "description": "Creado con node",
+  "price": 3.9,
+  "category": "Clásicos",
+  "stock": 10,
+  "featured": false
+}
